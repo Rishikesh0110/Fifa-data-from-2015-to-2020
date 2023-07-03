@@ -28,7 +28,7 @@ For withdraw insights from the data ,we must have the following python liberies 
 2. Which country has highest number of players belong?
 3. Which player is most aged and which player has highest weight? 
 4. Average age of players playing FIFA 2020.
-5. Top shooters, Top defenders, Which club made most nuber of pases?
+5. Top shooters, Top defenders, Which club is able to make most number of passes?
 simier kind of some questions has been drawn inside the notebook. 
 ## Techniques to performed EDA
 1. **Loaded the required libraries**
