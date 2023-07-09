@@ -1,5 +1,5 @@
 
-# Exploratory Data Analysis of FIFA data for 2020
+# Exploratory Data Analysis of FIFA data for 2020 &2019 both
 
 The datasets provided include the players data for the Career Mode from FIFA 20 ("players_20.csv"). The data allows multiple comparison of the same players across the version of the videogame. So derived EDA to gain insights from this dataset.
 
